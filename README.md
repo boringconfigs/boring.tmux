@@ -30,10 +30,6 @@ The default tmux prefix `C-b` is replaced with `C-Space`.
 - `Prefix-r`: Reloads the tmux configuration.
 - `Prefix-0` to `Prefix-9`: Switch to or create a window at the specified index.
 
-### Theming
-
-This configuration uses a lightweight, custom Catppuccin theme. The default flavor is "macchiato", but it can be changed by modifying the `@catppuccin_flavor` variable in `.config/tmux/tmux.conf`.
-
 ## Installation
 
 You can find installation instructions from [here](https://github.com/boringconfigs/#installation).
