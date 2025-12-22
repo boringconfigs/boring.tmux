@@ -12,7 +12,6 @@ A tmux configuration with a focus on simplicity and usability.
   - Window and pane indexing starts from 1.
   - `Prefix-0` to `Prefix-9` switch to or create a window at that index.
 - **Styling:**
-  - Catppuccin theme (macchiato flavor).
   - Custom status bar, panes, and window styling.
 - **Vim mode:** Vim key bindings are enabled in copy mode.
 - **Reload:** `Prefix-r` reloads the tmux configuration.
